@@ -18,3 +18,4 @@ Meu nome é Sidney e estou estudando Análise e Desenvolvimento de Sistemas.
 
 Espero colaborar e aprender com a incrível comunidade do GitHub. Sinta-se à vontade para entrar em contato comigo se tiver alguma dúvida ou se quiser colaborar em um projeto. Obrigado por visitar meu perfil!
 
+![snake gif](https://github.com/SidneyJrSilva/SSidneyJrSilva/blob/output/github-contribution-grid-snake-dark.gif)
