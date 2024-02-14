@@ -21,5 +21,8 @@ jobs:
         with:
           target_branch: output
           build_dir: dist
+
+          ![snake gif](https://github.com/SidneyJrSilva/SSidneyJrSilva/blob/output/github-contribution-grid-snake-dark.svg)
+
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
