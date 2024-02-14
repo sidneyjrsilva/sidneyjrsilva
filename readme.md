@@ -18,18 +18,10 @@
 
 <h2 align="center" >⚡Stats⚡</h2>
 <br>
-<div align="center" >
-  <picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=sidneyjrsilva&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=sidneyjrsilva&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=sidneyjrsilva&show_icons=true" />
-</picture>
+<div align="center">
+  <a href="https://github.com/sidneyjrsilva">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=sidneyjrsilva&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sidneyjrsilva&layout=compact&langs_count=7&theme=radical"/>
 </div>
 <br>
 <h1 align="center">
