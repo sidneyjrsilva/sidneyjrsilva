@@ -1,6 +1,5 @@
-
 <h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=olá!+👋;+me+chamo+Sidney!;" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=olá!+👋;+me+chamo+Sidney!;&color=FFFFFF" />
 </h1>
 
 <div  align="center" >
@@ -25,11 +24,7 @@
 </div>
 <br>
 <h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=obrigado+pela+atenção!;" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=obrigado+pela+atenção!;&color=FFFFFF" />
 </h1>
 
-
-
-![Snake animation](https://github.com/sidneyjrsilva/sidneyjrsilva/blob/output/github-contribution-grid-snake.svg)
-
-
+!Snake animation
