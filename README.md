@@ -3,8 +3,6 @@
 </h1>
 
 <div  align="center" >
--🎓 Estudando Análise e Desenvolvimento de Sistemas
-  <br>
 - 💼 Desenvolvedor Front-End
   <br>
 </div>
