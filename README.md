@@ -84,6 +84,3 @@
   />
 </picture>
 
-
-
-![Snake animation](https://github.com/sidneyjrsilva/sidneyjrsilva/blob/output/github-contribution-grid-snake.svg)
